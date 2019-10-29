@@ -6,4 +6,4 @@
 
 ### 效果：
 
-![运行结果](D:\Documents\Typora Files\Image File\TIM图片20191029150251.png)
+![运行结果](https://github.com/aishangxuejie/SourceOnLine/blob/master/ImageSource/Other/ExtrarionArea001.png)
